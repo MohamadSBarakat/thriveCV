@@ -50,6 +50,9 @@ $act = $appli->getAllActiviteFr();
 </div>
 -->
 
+<div> </div>
+
+
 <div class="jamb ">
     <div >
         <a href="http://thrive-association.ch/">
