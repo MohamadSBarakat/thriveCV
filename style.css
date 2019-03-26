@@ -1,0 +1,59 @@
+:root {
+  --input-padding-x: 1.5rem;
+  --input-padding-y: .75rem;
+}
+
+body {
+  background: #e6e7dff3;
+  
+  /* background: linear-gradient(to right, rgb(204, 207, 212), rgb(217, 229, 236)); */
+}
+
+
+
+.logo {
+  float: left;
+  width: 200px;
+  margin-left: 20px;
+  padding: 20px;
+
+}
+
+.lange {
+  float: right;
+  margin-right: 60px;  
+}
+
+.hh {
+  padding-top: 20px;
+  text-decoration: none;
+}
+
+  .fr {
+    width: 30px;
+  }
+
+.hh:hover{
+   
+  background-color:#d3dae5;
+  
+}  
+/*
+
+
+
+.jamb {
+   background-color: gray;
+}
+
+
+
+}
+
+
+   
+   
+}
+
+
+* 
